@@ -1,0 +1,19 @@
+1
+Bugs Bunny
+150.0
+2
+Donald Duck
+225.0
+3
+Mickey Mouse
+75.0
+4
+Yosemite Sam
+50.0
+5
+Yogi Bear
+300.0
+6
+John Patt
+200.0
+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
